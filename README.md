@@ -12,7 +12,7 @@ This is a simple backend API developed for the HNG12 Stage 1 Task. The API takes
 
 ### Endpoint
 - **Method**: GET
-- **URL**: https://hng12-number-classification-api.onrender.com/api/classify-number.php?number=371
+- **URL**: https://hng12-number-classification-api-task.onrender.com/api/classify-number?number=371
 
 ### Response Format: JSON
 
@@ -46,7 +46,7 @@ This is a simple backend API developed for the HNG12 Stage 1 Task. The API takes
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/imjolayemi/HNG12_Number_Classification_API.git
+   git clone https://github.com/Adexdee007/HNG12_number_classification_api_task.git
    cd HNG12_Number_Classification_API
    ```
 2. **Run the application**:
@@ -64,7 +64,7 @@ This is a simple backend API developed for the HNG12 Stage 1 Task. The API takes
 ## Deployment
 
 The API is deployed and publicly accessible at:
-- https://hng12-number-classification-api.onrender.com/api/classify-number.php?number=371
+- https://hng12-number-classification-api-task.onrender.com/api/classify-number?number=371
 
 ---
 
